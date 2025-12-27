@@ -5,16 +5,7 @@
     "github": "https://github.com/hieudoanm/blackjack",
     "image": "https://raw.githubusercontent.com/hieudoanm/blackjack/refs/heads/master/images/cover.png",
     "name": "Blackjack",
-    "category": "saas",
-    "tags": ["cli", "extension", "android", "macos", "web"]
-  },
-  {
-    "id": "chat",
-    "href": "https://hieudoanm.github.io/chat",
-    "github": "https://github.com/hieudoanm/chat",
-    "image": "https://raw.githubusercontent.com/hieudoanm/chat/refs/heads/master/images/cover.png",
-    "name": "Chat",
-    "category": "saas",
+    "category": "game",
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
   {
@@ -23,6 +14,42 @@
     "github": "https://github.com/hieudoanm/chess",
     "image": "https://raw.githubusercontent.com/hieudoanm/chess/refs/heads/master/images/cover.png",
     "name": "Chess",
+    "category": "game",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
+    "id": "chess.com",
+    "href": "https://hieudoanm.github.io/chess.com",
+    "github": "https://github.com/hieudoanm/chess.com",
+    "image": "https://raw.githubusercontent.com/hieudoanm/chess.com/refs/heads/master/images/cover.png",
+    "name": "chess.com",
+    "category": "game",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
+    "id": "t3",
+    "href": "https://hieudoanm.github.io/t3",
+    "github": "https://github.com/hieudoanm/t3",
+    "image": "https://raw.githubusercontent.com/hieudoanm/t3/refs/heads/master/images/cover.png",
+    "name": "T3",
+    "category": "game",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
+    "id": "towers",
+    "href": "https://hieudoanm.github.io/towers",
+    "github": "https://github.com/hieudoanm/towers",
+    "image": "https://raw.githubusercontent.com/hieudoanm/towers/refs/heads/master/images/cover.png",
+    "name": "Towers",
+    "category": "game",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
+    "id": "chat",
+    "href": "https://hieudoanm.github.io/chat",
+    "github": "https://github.com/hieudoanm/chat",
+    "image": "https://raw.githubusercontent.com/hieudoanm/chat/refs/heads/master/images/cover.png",
+    "name": "Chat",
     "category": "saas",
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
@@ -171,6 +198,15 @@
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
   {
+    "id": "resume",
+    "href": "https://hieudoanm.github.io/resume",
+    "github": "https://github.com/hieudoanm/resume",
+    "image": "https://raw.githubusercontent.com/hieudoanm/resume/refs/heads/master/images/cover.png",
+    "name": "Resume",
+    "category": "saas",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
     "id": "shopify",
     "href": "https://hieudoanm.github.io/shopify",
     "github": "https://github.com/hieudoanm/shopify",
@@ -185,15 +221,6 @@
     "github": "https://github.com/hieudoanm/status",
     "image": "https://raw.githubusercontent.com/hieudoanm/status/refs/heads/master/images/cover.png",
     "name": "Status",
-    "category": "saas",
-    "tags": ["cli", "extension", "android", "macos", "web"]
-  },
-  {
-    "id": "t3",
-    "href": "https://hieudoanm.github.io/t3",
-    "github": "https://github.com/hieudoanm/t3",
-    "image": "https://raw.githubusercontent.com/hieudoanm/t3/refs/heads/master/images/cover.png",
-    "name": "T3",
     "category": "saas",
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
