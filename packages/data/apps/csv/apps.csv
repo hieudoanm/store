@@ -9,7 +9,9 @@ shopify,https://hieudoanm.github.io/shopify,https://github.com/hieudoanm/shopify
 "qrcode","https://hieudoanm.github.io/qrcode","https://github.com/hieudoanm/qrcode","https://raw.githubusercontent.com/hieudoanm/qrcode/refs/heads/master/images/cover.png","QRCode","dev-tools","cli,extension,android,macos,web"
 "status","https://hieudoanm.github.io/status","https://github.com/hieudoanm/status","https://raw.githubusercontent.com/hieudoanm/status/refs/heads/master/images/cover.png","Status","dev-tools","cli,extension,android,macos,web"
 "uuid","https://hieudoanm.github.io/uuid","https://github.com/hieudoanm/uuid","https://raw.githubusercontent.com/hieudoanm/uuid/refs/heads/master/images/cover.png","UUID","dev-tools","cli,extension,android,macos,web"
+yaml,https://hieudoanm.github.io/yaml,https://github.com/hieudoanm/yaml,https://raw.githubusercontent.com/hieudoanm/yaml/refs/heads/master/images/cover.png,YAML,dev-tools,web
 "md","https://hieudoanm.github.io/md","https://github.com/hieudoanm/md","https://raw.githubusercontent.com/hieudoanm/md/refs/heads/master/images/cover.png","MD","docs","cli,extension,android,macos,web"
+pitch,https://hieudoanm.github.io/pitch,https://github.com/hieudoanm/pitch,https://raw.githubusercontent.com/hieudoanm/pitch/refs/heads/master/images/cover.png,Pitch,docs,web
 "redact","https://hieudoanm.github.io/redact","https://github.com/hieudoanm/redact","https://raw.githubusercontent.com/hieudoanm/redact/refs/heads/master/images/cover.png","Redact","docs","cli,extension,android,macos,web"
 resume,https://hieudoanm.github.io/resume,https://github.com/hieudoanm/resume,https://raw.githubusercontent.com/hieudoanm/resume/refs/heads/master/images/cover.png,Resume,docs,"cli,extension,android,macos,web"
 inflation,https://hieudoanm.github.io/inflation,https://github.com/hieudoanm/inflation,https://raw.githubusercontent.com/hieudoanm/inflation/refs/heads/master/images/cover.png,Inflation,finance,"cli,extension,android,macos,web"

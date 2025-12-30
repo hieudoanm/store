@@ -90,6 +90,15 @@
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
   {
+    "id": "yaml",
+    "href": "https://hieudoanm.github.io/yaml",
+    "github": "https://github.com/hieudoanm/yaml",
+    "image": "https://raw.githubusercontent.com/hieudoanm/yaml/refs/heads/master/images/cover.png",
+    "name": "YAML",
+    "category": "dev-tools",
+    "tags": ["web"]
+  },
+  {
     "id": "md",
     "href": "https://hieudoanm.github.io/md",
     "github": "https://github.com/hieudoanm/md",
@@ -97,6 +106,15 @@
     "name": "MD",
     "category": "docs",
     "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
+    "id": "pitch",
+    "href": "https://hieudoanm.github.io/pitch",
+    "github": "https://github.com/hieudoanm/pitch",
+    "image": "https://raw.githubusercontent.com/hieudoanm/pitch/refs/heads/master/images/cover.png",
+    "name": "Pitch",
+    "category": "docs",
+    "tags": ["web"]
   },
   {
     "id": "redact",
