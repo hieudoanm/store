@@ -9,9 +9,17 @@ type TagNative = 'cli' | 'linux' | 'macos' | 'windows';
 type Tag = TagBrowser | TagMobile | TagNative;
 
 enum Category {
+  AI = 'ai',
+  COMMERCE = 'commerce',
+  DESIGN = 'design',
+  DEV_TOOLS = 'dev-tools',
+  DOCS = 'docs',
+  FINANCE = 'finance',
+  FUN = 'fun',
   GAME = 'game',
   PRODUCTIVITY = 'productivity',
-  SAAS = 'saas',
+  SOCIAL = 'social',
+  UTILITIES = 'utilities',
   TEMPLATE = 'template',
 }
 
@@ -120,7 +128,7 @@ const HomePage: NextPage = () => {
 
         {/* App List */}
         <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {filteredApps.map(({ id, href, github, image, name, category }) => (
+          {filteredApps.map(({ id, href, github, name, category }) => (
             <div
               key={id}
               className="card bg-base-100 shadow-sm transition hover:shadow-md">

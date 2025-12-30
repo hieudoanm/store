@@ -162,6 +162,24 @@
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
   {
+    "id": "palindrome",
+    "href": "https://hieudoanm.github.io/palindrome",
+    "github": "https://github.com/hieudoanm/palindrome",
+    "image": "https://raw.githubusercontent.com/hieudoanm/palindrome/refs/heads/master/images/cover.png",
+    "name": "Palindrome",
+    "category": "fun",
+    "tags": ["web"]
+  },
+  {
+    "id": "pi",
+    "href": "https://hieudoanm.github.io/pi",
+    "github": "https://github.com/hieudoanm/pi",
+    "image": "https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png",
+    "name": "PI",
+    "category": "fun",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
     "id": "blackjack",
     "href": "https://hieudoanm.github.io/blackjack",
     "github": "https://github.com/hieudoanm/blackjack",
@@ -185,15 +203,6 @@
     "github": "https://github.com/hieudoanm/chess.com",
     "image": "https://raw.githubusercontent.com/hieudoanm/chess.com/refs/heads/master/images/cover.png",
     "name": "chess.com",
-    "category": "game",
-    "tags": ["cli", "extension", "android", "macos", "web"]
-  },
-  {
-    "id": "pi",
-    "href": "https://hieudoanm.github.io/pi",
-    "github": "https://github.com/hieudoanm/pi",
-    "image": "https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png",
-    "name": "PI",
     "category": "game",
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
