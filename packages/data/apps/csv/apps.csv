@@ -1,6 +1,9 @@
 "id","href","github","image","name","category","tags"
 "chat","https://hieudoanm.github.io/chat","https://github.com/hieudoanm/chat","https://raw.githubusercontent.com/hieudoanm/chat/refs/heads/master/images/cover.png","Chat","ai","cli,extension,android,macos,web"
 "words","https://hieudoanm.github.io/words","https://github.com/hieudoanm/words","https://raw.githubusercontent.com/hieudoanm/words/refs/heads/master/images/cover.png","Words","ai","cli,extension,android,macos,web"
+"chess","https://hieudoanm.github.io/chess","https://github.com/hieudoanm/chess","https://raw.githubusercontent.com/hieudoanm/chess/refs/heads/master/images/cover.png","Chess","chess","cli,extension,android,macos,web"
+chess.com,https://hieudoanm.github.io/chess.com,https://github.com/hieudoanm/chess.com,https://raw.githubusercontent.com/hieudoanm/chess.com/refs/heads/master/images/cover.png,chess.com,chess,"cli,extension,android,macos,web"
+chess.openings,https://hieudoanm.github.io/chess.openings,https://github.com/hieudoanm/chess.openings,https://raw.githubusercontent.com/hieudoanm/chess.openings/refs/heads/master/images/cover.png,chess.openings,chess,web
 shopify,https://hieudoanm.github.io/shopify,https://github.com/hieudoanm/shopify,https://raw.githubusercontent.com/hieudoanm/shopify/refs/heads/master/images/cover.png,Shopify,commerce,"cli,extension,android,macos,web"
 "colors","https://hieudoanm.github.io/colors","https://github.com/hieudoanm/colors","https://raw.githubusercontent.com/hieudoanm/colors/refs/heads/master/images/cover.png","Colors","design","cli,extension,android,macos,web"
 "converter","https://hieudoanm.github.io/converter","https://github.com/hieudoanm/converter","https://raw.githubusercontent.com/hieudoanm/converter/refs/heads/master/images/cover.png","Converter","dev-tools","cli,extension,android,macos,web"
@@ -20,8 +23,6 @@ tax,https://hieudoanm.github.io/tax,https://github.com/hieudoanm/tax,https://raw
 palindrome,https://hieudoanm.github.io/palindrome,https://github.com/hieudoanm/palindrome,https://raw.githubusercontent.com/hieudoanm/palindrome/refs/heads/master/images/cover.png,Palindrome,fun,web
 pi,https://hieudoanm.github.io/pi,https://github.com/hieudoanm/pi,https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png,PI,fun,"cli,extension,android,macos,web"
 "blackjack","https://hieudoanm.github.io/blackjack","https://github.com/hieudoanm/blackjack","https://raw.githubusercontent.com/hieudoanm/blackjack/refs/heads/master/images/cover.png","Blackjack","game","cli,extension,android,macos,web"
-"chess","https://hieudoanm.github.io/chess","https://github.com/hieudoanm/chess","https://raw.githubusercontent.com/hieudoanm/chess/refs/heads/master/images/cover.png","Chess","game","cli,extension,android,macos,web"
-chess.com,https://hieudoanm.github.io/chess.com,https://github.com/hieudoanm/chess.com,https://raw.githubusercontent.com/hieudoanm/chess.com/refs/heads/master/images/cover.png,chess.com,game,"cli,extension,android,macos,web"
 quiz,https://hieudoanm.github.io/quiz,https://github.com/hieudoanm/quiz,https://raw.githubusercontent.com/hieudoanm/quiz/refs/heads/master/images/cover.png,Quiz,game,"cli,extension,android,macos,web"
 recall,https://hieudoanm.github.io/recall,https://github.com/hieudoanm/recall,https://raw.githubusercontent.com/hieudoanm/recall/refs/heads/master/images/cover.png,Recall,game,"cli,extension,android,macos,web"
 "t3","https://hieudoanm.github.io/t3","https://github.com/hieudoanm/t3","https://raw.githubusercontent.com/hieudoanm/t3/refs/heads/master/images/cover.png","T3","game","cli,extension,android,macos,web"

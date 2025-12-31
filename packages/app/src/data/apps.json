@@ -18,6 +18,33 @@
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
   {
+    "id": "chess",
+    "href": "https://hieudoanm.github.io/chess",
+    "github": "https://github.com/hieudoanm/chess",
+    "image": "https://raw.githubusercontent.com/hieudoanm/chess/refs/heads/master/images/cover.png",
+    "name": "Chess",
+    "category": "chess",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
+    "id": "chess.com",
+    "href": "https://hieudoanm.github.io/chess.com",
+    "github": "https://github.com/hieudoanm/chess.com",
+    "image": "https://raw.githubusercontent.com/hieudoanm/chess.com/refs/heads/master/images/cover.png",
+    "name": "chess.com",
+    "category": "chess",
+    "tags": ["cli", "extension", "android", "macos", "web"]
+  },
+  {
+    "id": "chess.openings",
+    "href": "https://hieudoanm.github.io/chess.openings",
+    "github": "https://github.com/hieudoanm/chess.openings",
+    "image": "https://raw.githubusercontent.com/hieudoanm/chess.openings/refs/heads/master/images/cover.png",
+    "name": "chess.openings",
+    "category": "chess",
+    "tags": ["web"]
+  },
+  {
     "id": "shopify",
     "href": "https://hieudoanm.github.io/shopify",
     "github": "https://github.com/hieudoanm/shopify",
@@ -185,24 +212,6 @@
     "github": "https://github.com/hieudoanm/blackjack",
     "image": "https://raw.githubusercontent.com/hieudoanm/blackjack/refs/heads/master/images/cover.png",
     "name": "Blackjack",
-    "category": "game",
-    "tags": ["cli", "extension", "android", "macos", "web"]
-  },
-  {
-    "id": "chess",
-    "href": "https://hieudoanm.github.io/chess",
-    "github": "https://github.com/hieudoanm/chess",
-    "image": "https://raw.githubusercontent.com/hieudoanm/chess/refs/heads/master/images/cover.png",
-    "name": "Chess",
-    "category": "game",
-    "tags": ["cli", "extension", "android", "macos", "web"]
-  },
-  {
-    "id": "chess.com",
-    "href": "https://hieudoanm.github.io/chess.com",
-    "github": "https://github.com/hieudoanm/chess.com",
-    "image": "https://raw.githubusercontent.com/hieudoanm/chess.com/refs/heads/master/images/cover.png",
-    "name": "chess.com",
     "category": "game",
     "tags": ["cli", "extension", "android", "macos", "web"]
   },
