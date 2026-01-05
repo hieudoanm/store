@@ -1,11 +1,16 @@
-type App = {
+type TagBrowser = 'extension' | 'web';
+type TagMobile = 'android' | 'ios';
+type TagNative = 'cli' | 'linux' | 'macos' | 'windows';
+type Tag = TagBrowser | TagMobile | TagNative;
+
+export type App = {
   id: string;
   href: string;
   github: string;
   image: string;
   name: string;
   category: string;
-  tags: string[];
+  tags: Tag[];
 };
 
 export const apps: App[] = [

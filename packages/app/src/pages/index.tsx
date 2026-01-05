@@ -1,40 +1,9 @@
-import { apps } from '@store/data/apps';
+import { App, apps } from '@store/data/apps';
 import { NextPage } from 'next';
 import Link from 'next/link';
 import { ChangeEvent, useState } from 'react';
 
-type TagBrowser = 'extension' | 'web';
-type TagMobile = 'android' | 'ios';
-type TagNative = 'cli' | 'linux' | 'macos' | 'windows';
-type Tag = TagBrowser | TagMobile | TagNative;
-
-enum Category {
-  AI = 'ai',
-  CHESS = 'chess',
-  COMMERCE = 'commerce',
-  DESIGN = 'design',
-  DEV_TOOLS = 'dev-tools',
-  DOCS = 'docs',
-  FINANCE = 'finance',
-  FUN = 'fun',
-  GAME = 'game',
-  PRODUCTIVITY = 'productivity',
-  SOCIAL = 'social',
-  UTILITIES = 'utilities',
-  TEMPLATE = 'template',
-}
-
-type App = {
-  id: string;
-  href: string;
-  github: string;
-  image: string;
-  name: string;
-  category: Category;
-  tags: Tag[];
-};
-
-/* ---------- Theme (no useEffect) ---------- */
+const categories: string[] = [...new Set(apps.map(({ category }) => category))];
 
 const getInitialTheme = (): 'light' | 'dark' => {
   if (typeof window === 'undefined') return 'light';
@@ -119,9 +88,9 @@ const HomePage: NextPage = () => {
             value={category}
             onChange={(e) => setState({ query, category: e.target.value })}>
             <option value="all">All Categories</option>
-            {Object.values(Category).map((cat) => (
-              <option key={cat} value={cat}>
-                {cat.charAt(0).toUpperCase() + cat.slice(1)}
+            {categories.map((category) => (
+              <option key={category} value={category}>
+                {category}
               </option>
             ))}
           </select>
@@ -140,10 +109,9 @@ const HomePage: NextPage = () => {
                   </div>
                   <div className="flex flex-1 flex-col">
                     <h2 className="leading-tight font-semibold">{name}</h2>
-                    <div className="mt-1 text-xs capitalize opacity-70">
-                      {category}
+                    <div className="mt-1 text-xs opacity-70">
+                      {category.toUpperCase()}
                     </div>
-
                     <div className="mt-auto flex items-center gap-3 pt-3">
                       <Link
                         href={href}
