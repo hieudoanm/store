@@ -255,16 +255,6 @@ export const apps: App[] = [
     tags: ['web'],
   },
   {
-    category: 'fun',
-    id: 'pi',
-    href: 'https://hieudoanm.github.io/pi',
-    github: 'https://github.com/hieudoanm/pi',
-    image:
-      'https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png',
-    name: 'PI',
-    tags: ['cli', 'extension', 'android', 'macos', 'web'],
-  },
-  {
     category: 'game',
     id: 'blackjack',
     href: 'https://hieudoanm.github.io/blackjack',
@@ -273,6 +263,16 @@ export const apps: App[] = [
       'https://raw.githubusercontent.com/hieudoanm/blackjack/refs/heads/master/images/cover.png',
     name: 'Blackjack',
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
+  },
+  {
+    category: 'game',
+    id: 'pi',
+    href: 'https://hieudoanm.github.io/pi',
+    github: 'https://github.com/hieudoanm/pi',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png',
+    name: 'PI',
+    tags: ['android', 'macos', 'web'],
   },
   {
     category: 'game',
@@ -315,13 +315,23 @@ export const apps: App[] = [
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
   {
+    category: 'game',
+    id: 'wordle',
+    href: 'https://hieudoanm.github.io/wordle',
+    github: 'https://github.com/hieudoanm/wordle',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/wordle/refs/heads/master/images/cover.png',
+    name: 'Wordle',
+    tags: ['android', 'macos', 'web'],
+  },
+  {
     category: 'productivity',
     id: 'calendar',
     href: 'https://hieudoanm.github.io/calendar',
     github: 'https://github.com/hieudoanm/calendar',
     image:
       'https://raw.githubusercontent.com/hieudoanm/calendar/refs/heads/master/images/cover.png',
-    name: 'Lunar',
+    name: 'Calendar',
     tags: ['web'],
   },
   {
