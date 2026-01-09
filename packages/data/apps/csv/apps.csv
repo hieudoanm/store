@@ -23,6 +23,7 @@ finance,inflation,https://hieudoanm.github.io/inflation,https://github.com/hieud
 "finance","invoice","https://hieudoanm.github.io/invoice","https://github.com/hieudoanm/invoice","https://raw.githubusercontent.com/hieudoanm/invoice/refs/heads/master/images/cover.png","Invoice","cli,extension,android,macos,web"
 finance,tax,https://hieudoanm.github.io/tax,https://github.com/hieudoanm/tax,https://raw.githubusercontent.com/hieudoanm/tax/refs/heads/master/images/cover.png,Tax,"cli,extension,android,macos,web"
 fun,palindrome,https://hieudoanm.github.io/palindrome,https://github.com/hieudoanm/palindrome,https://raw.githubusercontent.com/hieudoanm/palindrome/refs/heads/master/images/cover.png,Palindrome,web
+fun,typoglycemia,https://hieudoanm.github.io/typoglycemia,https://github.com/hieudoanm/typoglycemia,https://raw.githubusercontent.com/hieudoanm/typoglycemia/refs/heads/master/images/cover.png,Typoglycemia,web
 "game","blackjack","https://hieudoanm.github.io/blackjack","https://github.com/hieudoanm/blackjack","https://raw.githubusercontent.com/hieudoanm/blackjack/refs/heads/master/images/cover.png","Blackjack","cli,extension,android,macos,web"
 game,pi,https://hieudoanm.github.io/pi,https://github.com/hieudoanm/pi,https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png,PI,"android,macos,web"
 game,quiz,https://hieudoanm.github.io/quiz,https://github.com/hieudoanm/quiz,https://raw.githubusercontent.com/hieudoanm/quiz/refs/heads/master/images/cover.png,Quiz,"cli,extension,android,macos,web"
@@ -41,3 +42,4 @@ productivity,calendar,https://hieudoanm.github.io/calendar,https://github.com/hi
 "utilities","macosx","https://hieudoanm.github.io/macosx","https://github.com/hieudoanm/macosx","https://raw.githubusercontent.com/hieudoanm/macosx/refs/heads/master/images/cover.png","macOSX","cli,extension,android,macos,web"
 "template","atomic","https://hieudoanm.github.io/atomic","https://github.com/hieudoanm/atomic","https://raw.githubusercontent.com/hieudoanm/atomic/refs/heads/master/images/cover.png","Atomic","web"
 "template","micro-saas","https://hieudoanm.github.io/micro-saas","https://github.com/hieudoanm/micro-saas","https://raw.githubusercontent.com/hieudoanm/micro-saas/refs/heads/master/images/cover.png","Micro SaaS","web"
+template,starter,https://hieudoanm.github.io/starter,https://github.com/hieudoanm/starter,https://raw.githubusercontent.com/hieudoanm/starter/refs/heads/master/images/cover.png,Starter,"cli,extension,android,macos,web"

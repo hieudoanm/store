@@ -255,6 +255,16 @@ export const apps: App[] = [
     tags: ['web'],
   },
   {
+    category: 'fun',
+    id: 'typoglycemia',
+    href: 'https://hieudoanm.github.io/typoglycemia',
+    github: 'https://github.com/hieudoanm/typoglycemia',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/typoglycemia/refs/heads/master/images/cover.png',
+    name: 'Typoglycemia',
+    tags: ['web'],
+  },
+  {
     category: 'game',
     id: 'blackjack',
     href: 'https://hieudoanm.github.io/blackjack',
@@ -433,5 +443,15 @@ export const apps: App[] = [
       'https://raw.githubusercontent.com/hieudoanm/micro-saas/refs/heads/master/images/cover.png',
     name: 'Micro SaaS',
     tags: ['web'],
+  },
+  {
+    category: 'template',
+    id: 'starter',
+    href: 'https://hieudoanm.github.io/starter',
+    github: 'https://github.com/hieudoanm/starter',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/starter/refs/heads/master/images/cover.png',
+    name: 'Starter',
+    tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
 ];
