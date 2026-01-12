@@ -176,12 +176,12 @@ export const apps: App[] = [
   },
   {
     category: 'docs',
-    id: 'md',
-    href: 'https://hieudoanm.github.io/md',
-    github: 'https://github.com/hieudoanm/md',
+    id: 'mditor',
+    href: 'https://hieudoanm.github.io/mditor',
+    github: 'https://github.com/hieudoanm/mditor',
     image:
-      'https://raw.githubusercontent.com/hieudoanm/md/refs/heads/master/images/cover.png',
-    name: 'MD',
+      'https://raw.githubusercontent.com/hieudoanm/mditor/refs/heads/master/images/cover.png',
+    name: 'MDitor',
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
   {

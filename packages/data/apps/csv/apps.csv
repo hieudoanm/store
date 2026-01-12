@@ -15,7 +15,7 @@ dev-tools,manifest.json,https://hieudoanm.github.io/manifest.json,https://github
 "dev-tools","status","https://hieudoanm.github.io/status","https://github.com/hieudoanm/status","https://raw.githubusercontent.com/hieudoanm/status/refs/heads/master/images/cover.png","Status","cli,extension,android,macos,web"
 "dev-tools","uuid","https://hieudoanm.github.io/uuid","https://github.com/hieudoanm/uuid","https://raw.githubusercontent.com/hieudoanm/uuid/refs/heads/master/images/cover.png","UUID","cli,extension,android,macos,web"
 dev-tools,yaml,https://hieudoanm.github.io/yaml,https://github.com/hieudoanm/yaml,https://raw.githubusercontent.com/hieudoanm/yaml/refs/heads/master/images/cover.png,YAML,web
-"docs","md","https://hieudoanm.github.io/md","https://github.com/hieudoanm/md","https://raw.githubusercontent.com/hieudoanm/md/refs/heads/master/images/cover.png","MD","cli,extension,android,macos,web"
+"docs","mditor","https://hieudoanm.github.io/mditor","https://github.com/hieudoanm/mditor","https://raw.githubusercontent.com/hieudoanm/mditor/refs/heads/master/images/cover.png","MDitor","cli,extension,android,macos,web"
 docs,pitch,https://hieudoanm.github.io/pitch,https://github.com/hieudoanm/pitch,https://raw.githubusercontent.com/hieudoanm/pitch/refs/heads/master/images/cover.png,Pitch,web
 "docs","redact","https://hieudoanm.github.io/redact","https://github.com/hieudoanm/redact","https://raw.githubusercontent.com/hieudoanm/redact/refs/heads/master/images/cover.png","Redact","cli,extension,android,macos,web"
 docs,resume,https://hieudoanm.github.io/resume,https://github.com/hieudoanm/resume,https://raw.githubusercontent.com/hieudoanm/resume/refs/heads/master/images/cover.png,Resume,"cli,extension,android,macos,web"
