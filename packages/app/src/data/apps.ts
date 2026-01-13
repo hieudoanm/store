@@ -16,12 +16,12 @@ export type App = {
 export const apps: App[] = [
   {
     category: 'ai',
-    id: 'chat',
-    href: 'https://hieudoanm.github.io/chat',
-    github: 'https://github.com/hieudoanm/chat',
+    id: 'promptly',
+    href: 'https://hieudoanm.github.io/promptly',
+    github: 'https://github.com/hieudoanm/promptly',
     image:
-      'https://raw.githubusercontent.com/hieudoanm/chat/refs/heads/master/images/cover.png',
-    name: 'Chat',
+      'https://raw.githubusercontent.com/hieudoanm/promptly/refs/heads/master/images/cover.png',
+    name: 'Promptly',
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
   {
