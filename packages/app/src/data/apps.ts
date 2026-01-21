@@ -215,6 +215,16 @@ export const apps: App[] = [
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
   {
+    category: 'docs',
+    id: 'simple-upload',
+    href: 'https://hieudoanm.github.io/simple-upload',
+    github: 'https://github.com/hieudoanm/simple-upload',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/simple-upload/refs/heads/master/images/cover.png',
+    name: 'Simple Upload',
+    tags: ['web'],
+  },
+  {
     category: 'finance',
     id: 'inflation',
     href: 'https://hieudoanm.github.io/inflation',
