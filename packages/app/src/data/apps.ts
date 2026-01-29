@@ -266,6 +266,16 @@ export const apps: App[] = [
   },
   {
     category: 'fun',
+    id: 'countries',
+    href: 'https://hieudoanm.github.io/countries',
+    github: 'https://github.com/hieudoanm/countries',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/countries/refs/heads/master/images/cover.png',
+    name: 'Countries',
+    tags: ['web'],
+  },
+  {
+    category: 'fun',
     id: 'palindrome',
     href: 'https://hieudoanm.github.io/palindrome',
     github: 'https://github.com/hieudoanm/palindrome',
