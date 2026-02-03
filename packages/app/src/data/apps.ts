@@ -15,7 +15,7 @@ export type App = {
 
 export const apps: App[] = [
   {
-    category: 'ai',
+    category: 'artificial-intelligence',
     id: 'promptly',
     href: 'https://hieudoanm.github.io/promptly',
     github: 'https://github.com/hieudoanm/promptly',
@@ -25,7 +25,7 @@ export const apps: App[] = [
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
   {
-    category: 'ai',
+    category: 'artificial-intelligence',
     id: 'words',
     href: 'https://hieudoanm.github.io/words',
     github: 'https://github.com/hieudoanm/words',
@@ -82,6 +82,16 @@ export const apps: App[] = [
     image:
       'https://raw.githubusercontent.com/hieudoanm/colors/refs/heads/master/images/cover.png',
     name: 'Colors',
+    tags: ['cli', 'extension', 'android', 'macos', 'web'],
+  },
+  {
+    category: 'dev-tools',
+    id: 'coditor',
+    href: 'https://hieudoanm.github.io/coditor',
+    github: 'https://github.com/hieudoanm/coditor',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/coditor/refs/heads/master/images/cover.png',
+    name: 'Coditor',
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
   {
@@ -392,16 +402,6 @@ export const apps: App[] = [
     image:
       'https://raw.githubusercontent.com/hieudoanm/doi/refs/heads/master/images/cover.png',
     name: 'DOI',
-    tags: ['cli', 'extension', 'android', 'macos', 'web'],
-  },
-  {
-    category: 'productivity',
-    id: 'maps',
-    href: 'https://hieudoanm.github.io/maps',
-    github: 'https://github.com/hieudoanm/maps',
-    image:
-      'https://raw.githubusercontent.com/hieudoanm/maps/refs/heads/master/images/cover.png',
-    name: 'Maps',
     tags: ['cli', 'extension', 'android', 'macos', 'web'],
   },
   {

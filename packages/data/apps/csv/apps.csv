@@ -1,11 +1,12 @@
 "category","id","href","github","image","name","tags"
-"ai","promptly","https://hieudoanm.github.io/promptly","https://github.com/hieudoanm/promptly","https://raw.githubusercontent.com/hieudoanm/promptly/refs/heads/master/images/cover.png","Promptly","cli,extension,android,macos,web"
-"ai","words","https://hieudoanm.github.io/words","https://github.com/hieudoanm/words","https://raw.githubusercontent.com/hieudoanm/words/refs/heads/master/images/cover.png","Words","cli,extension,android,macos,web"
+"artificial-intelligence","promptly","https://hieudoanm.github.io/promptly","https://github.com/hieudoanm/promptly","https://raw.githubusercontent.com/hieudoanm/promptly/refs/heads/master/images/cover.png","Promptly","cli,extension,android,macos,web"
+"artificial-intelligence","words","https://hieudoanm.github.io/words","https://github.com/hieudoanm/words","https://raw.githubusercontent.com/hieudoanm/words/refs/heads/master/images/cover.png","Words","cli,extension,android,macos,web"
 "chess","chess","https://hieudoanm.github.io/chess","https://github.com/hieudoanm/chess","https://raw.githubusercontent.com/hieudoanm/chess/refs/heads/master/images/cover.png","Chess","cli,extension,android,macos,web"
 chess,chess.com,https://hieudoanm.github.io/chess.com,https://github.com/hieudoanm/chess.com,https://raw.githubusercontent.com/hieudoanm/chess.com/refs/heads/master/images/cover.png,chess.com,"cli,extension,android,macos,web"
 chess,chess.openings,https://hieudoanm.github.io/chess.openings,https://github.com/hieudoanm/chess.openings,https://raw.githubusercontent.com/hieudoanm/chess.openings/refs/heads/master/images/cover.png,chess.openings,web
 commerce,shopify,https://hieudoanm.github.io/shopify,https://github.com/hieudoanm/shopify,https://raw.githubusercontent.com/hieudoanm/shopify/refs/heads/master/images/cover.png,Shopify,"cli,extension,android,macos,web"
 "design","colors","https://hieudoanm.github.io/colors","https://github.com/hieudoanm/colors","https://raw.githubusercontent.com/hieudoanm/colors/refs/heads/master/images/cover.png","Colors","cli,extension,android,macos,web"
+"dev-tools","coditor","https://hieudoanm.github.io/coditor","https://github.com/hieudoanm/coditor","https://raw.githubusercontent.com/hieudoanm/coditor/refs/heads/master/images/cover.png","Coditor","cli,extension,android,macos,web"
 "dev-tools","converter","https://hieudoanm.github.io/converter","https://github.com/hieudoanm/converter","https://raw.githubusercontent.com/hieudoanm/converter/refs/heads/master/images/cover.png","Converter","cli,extension,android,macos,web"
 dev-tools,csv,https://hieudoanm.github.io/csv,https://github.com/hieudoanm/csv,https://raw.githubusercontent.com/hieudoanm/csv/refs/heads/master/images/cover.png,CSV,web
 "dev-tools","gh","https://hieudoanm.github.io/gh","https://github.com/hieudoanm/gh","https://raw.githubusercontent.com/hieudoanm/gh/refs/heads/master/images/cover.png","GH","cli,extension,android,macos,web"
@@ -37,7 +38,6 @@ numberphile,kaprekar,https://hieudoanm.github.io/kaprekar,https://github.com/hie
 numberphile,pi,https://hieudoanm.github.io/pi,https://github.com/hieudoanm/pi,https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png,PI,"android,macos,web"
 productivity,calendar,https://hieudoanm.github.io/calendar,https://github.com/hieudoanm/calendar,https://raw.githubusercontent.com/hieudoanm/calendar/refs/heads/master/images/cover.png,Calendar,web
 "productivity","doi","https://hieudoanm.github.io/doi","https://github.com/hieudoanm/doi","https://raw.githubusercontent.com/hieudoanm/doi/refs/heads/master/images/cover.png","DOI","cli,extension,android,macos,web"
-"productivity","maps","https://hieudoanm.github.io/maps","https://github.com/hieudoanm/maps","https://raw.githubusercontent.com/hieudoanm/maps/refs/heads/master/images/cover.png","Maps","cli,extension,android,macos,web"
 "productivity","pomodoro","https://hieudoanm.github.io/pomodoro","https://github.com/hieudoanm/pomodoro","https://raw.githubusercontent.com/hieudoanm/pomodoro/refs/heads/master/images/cover.png","Pomodoro","cli,extension,android,macos,web"
 "productivity","today.do","https://hieudoanm.github.io/today.do","https://github.com/hieudoanm/today.do","https://raw.githubusercontent.com/hieudoanm/today.do/refs/heads/master/images/cover.png","today.do","cli,extension,android,macos,web"
 "social","ig","https://hieudoanm.github.io/ig","https://github.com/hieudoanm/ig","https://raw.githubusercontent.com/hieudoanm/ig/refs/heads/master/images/cover.png","IG","cli,extension,android,macos,web"
