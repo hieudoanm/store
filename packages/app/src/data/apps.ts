@@ -306,16 +306,6 @@ export const apps: App[] = [
   },
   {
     category: 'game',
-    id: 'pi',
-    href: 'https://hieudoanm.github.io/pi',
-    github: 'https://github.com/hieudoanm/pi',
-    image:
-      'https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png',
-    name: 'PI',
-    tags: ['android', 'macos', 'web'],
-  },
-  {
-    category: 'game',
     id: 'quiz',
     href: 'https://hieudoanm.github.io/quiz',
     github: 'https://github.com/hieudoanm/quiz',
@@ -362,6 +352,26 @@ export const apps: App[] = [
     image:
       'https://raw.githubusercontent.com/hieudoanm/wordle/refs/heads/master/images/cover.png',
     name: 'Wordle',
+    tags: ['android', 'macos', 'web'],
+  },
+  {
+    category: 'numberphile',
+    id: 'kaprekar',
+    href: 'https://hieudoanm.github.io/kaprekar',
+    github: 'https://github.com/hieudoanm/kaprekar',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/kaprekar/refs/heads/master/images/cover.png',
+    name: 'Kaprekar',
+    tags: ['android', 'macos', 'web'],
+  },
+  {
+    category: 'numberphile',
+    id: 'pi',
+    href: 'https://hieudoanm.github.io/pi',
+    github: 'https://github.com/hieudoanm/pi',
+    image:
+      'https://raw.githubusercontent.com/hieudoanm/pi/refs/heads/master/images/cover.png',
+    name: 'PI',
     tags: ['android', 'macos', 'web'],
   },
   {
